@@ -1,0 +1,14 @@
+{
+"companyName": "OurpokeCompany",
+"productName": "Ourpoke",
+"dataUrl": "txcrnr.github.io.data.unityweb",
+"asmCodeUrl": "txcrnr.github.io.asm.code.unityweb",
+"asmMemoryUrl": "txcrnr.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "txcrnr.github.io.asm.framework.unityweb",
+"asmSymbolsUrl": "txcrnr.github.io.asm.symbols.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
