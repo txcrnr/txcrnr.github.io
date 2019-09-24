@@ -1,0 +1,18 @@
+{
+"companyName": "OurpokeCompany",
+"productName": "Ourpoke",
+"productVersion": "1.0",
+"dataUrl": "WebGLBuild.data.unityweb",
+"asmCodeUrl": "WebGLBuild.asm.code.unityweb",
+"asmMemoryUrl": "WebGLBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGLBuild.asm.framework.unityweb",
+"asmSymbolsUrl": "WebGLBuild.asm.symbols.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0b4"
+}
